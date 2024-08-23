@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything concerning Front End web development 
 - 📫 How to reach me ... Kosiobi45@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... i don't think its so hard to centre a div lol
+- ⚡ Fun fact: ... What was the first sentence HTML made? "Hello world!"
 
 <!---
 Emmkay001/Emmkay001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
